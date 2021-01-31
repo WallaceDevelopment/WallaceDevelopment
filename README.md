@@ -1,4 +1,6 @@
-### Hi there 👋
+### 👋 Hello, I'm Lee
+
+I'm a Postgraduate Software Engineering student at University College London. I have an interest in developing cloud-native distributed systems and application deployment. 
 
 <!--
 **WallaceDevelopment/WallaceDevelopment** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
